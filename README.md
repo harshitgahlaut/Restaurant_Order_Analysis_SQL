@@ -1,6 +1,6 @@
 # Restaurant Order Analysis
 
-![Screenshot 2024-03-18 at 11-28-53 You earned a badge from Maven Analytics! - harshitgahlaut29@gmail com - Gmail](https://github.com/harshitgahlaut/Restaurant_Order_Analysis_SQL/assets/142779836/ed70d951-80ed-4612-b18b-4834aa66c22e)
+![proj](https://github.com/harshitgahlaut/Restaurant_Order_Analysis_SQL/assets/142779836/190aca75-921a-4234-8f64-00d16e584a09)
 
 
 This is a guided project by [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) whose primary objective is to conduct a basic level analysis of restaurant data using SQL.
