@@ -15,7 +15,7 @@ You have been hired as a Data Analyst for the "Taste of World Cafe". The restaur
 
 ## Data Set
 
-Dataset can be found at [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) . A profound gratitude is extended to Maven Analytis for offering this exceptional opportunity for practice through this project. 
+Dataset can be found at [Maven Analytics](https://www.mavenanalytics.io/guided-projects#projects-list) . A profound gratitude is extended to Maven Analytics for offering this exceptional opportunity for practice through this project. 
 
 ## Skills showcased in this Project
 
